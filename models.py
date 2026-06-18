@@ -1,6 +1,6 @@
 """
 models.py
-Core data models for ServiceGraph — Microservice Dependency & Failure Risk Simulator
+Core data models for DepthCharge — Microservice Dependency & Failure Risk Simulator
 """
 
 from dataclasses import dataclass, field
