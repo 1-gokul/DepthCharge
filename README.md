@@ -169,4 +169,4 @@ Place `dags/retrain_dag.py` in your Airflow `dags/` folder.
 
 ## Author
 
-Your Name — [GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourprofile)
+Gokul Prasad — [GitHub](https://github.com/1-gokul) 
