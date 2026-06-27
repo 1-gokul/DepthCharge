@@ -1,4 +1,4 @@
-# AWS EC2 Deployment Notes
+# AWS EC2 Deployment Notes--
 
 ## Launch
 - Ubuntu 24.04 LTS
